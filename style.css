@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Teko', sans-serif;
+}
+
+.red-color {
+    color: rgb(218, 52, 23);
+}
+
+h3 {
+    color: darkorange;
+    font-size: 30px;
+    font-family: 'popins', sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    height: 600px;
+    margin-bottom: 150px;
+}
+
+.top-section {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    float: left;
+}
+
+.dream-again {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.half-width1 {
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+    padding-right: 5%;
+}
+
+.half-width1 img {
+    width: 80%;
+    float: left;
+}
+
+.communist {
+    background-image: url(images/communist.png);
+}
+
+.white-text {
+    color: white;
+}
+
+.end-site {
+    background-image: url(images/star.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: top;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.link-button {
+    background-image: linear-gradient(darkred, orangered);
+    border-radius: 8%;
+    padding: 10px 10px 10px 10px;
+}
+
+.link-button1 {
+    background-image: linear-gradient(purple, blue);
+    border-radius: 8%;
+    padding: 10px 10px 10px 10px;
+}
