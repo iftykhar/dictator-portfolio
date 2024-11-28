@@ -20,6 +20,7 @@ A responsive web page highlighting various political ideologies and notable figu
 ├── tailwind.css        # CSS file with Tailwind utilities
 ├── /images             # Folder containing images for the site
 ├── README.md           # Project documentation
+````
 
 # 🚀 Getting Started
 ## Prerequisites
@@ -28,16 +29,16 @@ A text editor (e.g., VSCode) or any IDE.
 
 ## Installation Steps
 - Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+````git clone https://github.com/yourusername/your-repo-name.git````
 
 - Navigate to the project directory:
-cd your-repo-name
+````cd your-repo-name```
 
 Install Tailwind CSS: If Tailwind CSS is not set up, follow the official documentation to configure it.
 
 - Start the development server:
 
-npm run dev
+````npm run dev````
 
 Open index.html in your browser or use a live server extension.
 
