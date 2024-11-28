@@ -9,11 +9,23 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Teko:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              colors: {
+                clifford: '#da373d',
+              }
+            }
+          }
+        }
+      </script>
     <title>Worlds Dictators</title>
 </head>
 
 <body>
-    <section class="top-section">
+    <!-- <section class="top-section">
         <div class="half-width">
             <h1>Welcome To</h1>
             <h1> <span class="red-color">Authoraterian</span> World!</h1>
@@ -27,7 +39,23 @@
         <div class="half-width">
             <img src="images/hitler-bg.png" alt="Hitler">
         </div>
+    </section> -->
+    <section class="top-section grid grid-cols-1 md:grid-cols-2 gap-6 p-6">
+        <div>
+            <h1>Welcome To</h1>
+            <h1><span class="text-red-600">Authoritarian</span> World!</h1>
+            <h3>Adolf Hitler</h3>
+            <p>Authoritarianism, principle of blind submission...</p>
+            <a target="_blank" class="link-button" href="https://en.wikipedia.org/wiki/Adolf_Hitler">More..</a>
+        </div>
+        <div class="flex justify-center md:justify-end">
+            <img src="images/hitler-bg.png" alt="Hitler">
+        </div>
     </section>
+    
+    
+    <!-- Repeat the same structure for other sections -->
+    
     <section class="dream-again">
         <div class="half-width1">
             <img src="images/musolini-bg.png" alt="musolini-bg">
