@@ -15,7 +15,7 @@ A responsive web page highlighting various political ideologies and notable figu
 
 ## 📂 Project Structure
 
-plaintext
+````plaintext
 ├── index.html          # Main HTML file
 ├── tailwind.css        # CSS file with Tailwind utilities
 ├── /images             # Folder containing images for the site
