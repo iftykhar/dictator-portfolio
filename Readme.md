@@ -28,15 +28,14 @@ Node.js (for Tailwind CSS setup)
 A text editor (e.g., VSCode) or any IDE.
 
 ## Installation Steps
-- Clone the repository:
+Clone the repository:
 ````git clone https://github.com/yourusername/your-repo-name.git````
-
-- Navigate to the project directory:
-````cd your-repo-name```
+ Navigate to the project directory:
+````cd your-repo-name````
 
 Install Tailwind CSS: If Tailwind CSS is not set up, follow the official documentation to configure it.
 
-- Start the development server:
+ Start the development server:
 
 ````npm run dev````
 
@@ -65,16 +64,16 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 
 # Clone the repo
-git clone https://github.com/yourusername/your-repo-name.git
+````git clone https://github.com/yourusername/your-repo-name.git````
 
 # Create a new branch for your feature
-git checkout -b feature-name
+````git checkout -b feature-name````
 
 # Commit your changes
-git commit -m "Add a new feature"
+````git commit -m "Add a new feature"````
 
 # Push to your branch
-git push origin feature-name
+````git push origin feature-name````
 
 # Open a pull request
 📧 Contact
