@@ -56,9 +56,9 @@ This project is licensed under the MIT License.
 # 🙋‍♂️ Author
 Iftykhar Alam
 
-GitHub
-LinkedIn
-Portfolio
+GitHub : https://github.com/iftykhar
+LinkedIn : https://www.linkedin.com/in/iftykhar-alam/
+Portfolio : iftykhar-portfolio.vercel.app/
 # ✨ Contributions
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
@@ -78,7 +78,7 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 # Open a pull request
 📧 Contact
 Have questions or suggestions?
-Reach out via email@example.com.
+Reach out via s.m.ifty49@gmail.com.
 
 Happy coding! 🎉
 
